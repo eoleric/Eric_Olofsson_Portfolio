@@ -1,0 +1,11 @@
+Garvity Adventuré is a platform game developed as a school project.
+
+Gameplay: https://www.youtube.com/watch?v=nZF1VCiTQSY
+
+The repository contains the full build if you want to try it out and some of the source code.
+
+I wrote the code for most parts of the game including the entire character, all AI opponents and objects including camera movement.
+
+Legend of Zoldar is a remake of the first Zelda game that 10 people in the class was tasked with remaking in a week. I was responsible for making the AI of all the enemies.
+
+I also included a copy of my résumé.
