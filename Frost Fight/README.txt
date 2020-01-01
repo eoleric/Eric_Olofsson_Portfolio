@@ -1,0 +1,1 @@
+This is a multiplayer FPS snowball fight game developed during my last year at Stockholm University. In this game I wrote the character controller, snowball throwing mechanic and synced it over a network.
